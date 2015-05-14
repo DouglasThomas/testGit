@@ -1,1 +1,1 @@
-this is a test, of the emergency testing notpad in the case of a real emergency I would not be typing this. 
+this is a test, of the emergency testing notepad in the case of a real emergency I would be screaming and running around. 
